@@ -9,5 +9,5 @@
         $error .= $e -> getMessage();
         include('view/error.php');
         exit();
-    }  
+    }
 ?>
